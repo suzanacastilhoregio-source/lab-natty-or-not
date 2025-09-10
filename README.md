@@ -33,7 +33,7 @@ Conteúdo compartilhável em redes sociais e portfólio profissional.
 
 Assista ao vídeo com avatar IA, onde apresento minha transição de carreira para a área de tecnologia:
 
-🔗 [Clique aqui para assistir ao vídeo](https://github.com/JanahAleixo/lab-natty-or-not/assets/107958723/fd0db285-1201-40e3-a
+https://github.com/suzanacastilhoregio-source/lab-natty-or-not/commit/04f748b3fc44eb66bed37fd02f0578261611046b
 
 ## 💭 Reflexão
 Criar algo “natty” com IA foi desafiador e divertido, sempre gostei de criar este tipo de conteúdo. Apesar da limitação de poder utilizar as ferramentas apenas na versão Free que limita muito a criação. O projeto mostra como a tecnologia pode ser uma aliada poderosa na comunicação profissional. 
